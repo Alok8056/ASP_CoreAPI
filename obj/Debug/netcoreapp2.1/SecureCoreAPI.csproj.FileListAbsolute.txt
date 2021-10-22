@@ -1,0 +1,14 @@
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\bin\Debug\netcoreapp2.1\SecureCoreAPI.deps.json
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\bin\Debug\netcoreapp2.1\SecureCoreAPI.runtimeconfig.json
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\bin\Debug\netcoreapp2.1\SecureCoreAPI.runtimeconfig.dev.json
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\bin\Debug\netcoreapp2.1\SecureCoreAPI.dll
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\bin\Debug\netcoreapp2.1\SecureCoreAPI.pdb
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.csprojAssemblyReference.cache
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.csproj.CoreCompileInputs.cache
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.RazorAssemblyInfo.cache
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.RazorAssemblyInfo.cs
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.AssemblyInfoInputs.cache
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.AssemblyInfo.cs
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.dll
+C:\Examples\DotNetCoreAPIProjects\SecureCoreAPI\obj\Debug\netcoreapp2.1\SecureCoreAPI.pdb
