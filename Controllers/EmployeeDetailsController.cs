@@ -18,7 +18,8 @@ namespace SecureCoreAPI.Controllers
         [HttpGet]
         public ActionResult GetEmployeeDetails()
         {
-            return Ok(this.employeeRepo.GetEmployeeDetails());
+            var data = this.employeeRepo.GetEmployeeDetails();
+            return Ok(data);
         }
 
     }
